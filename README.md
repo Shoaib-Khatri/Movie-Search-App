@@ -2,6 +2,10 @@
 
 A modern and responsive movie search application built with **React.js**. It uses the **TMDB (The Movie Database) API** to fetch real-time movie data and display it beautifully with infinite scrolling.
 
+## 🌍 Live Demo
+
+👉 [Click here to try the app](https://movix-app-personal.netlify.app/)
+
 ## 🖼️ Demo Preview
 
 ![App Preview](./public/screenshot.png)
